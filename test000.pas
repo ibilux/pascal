@@ -559,8 +559,3 @@ for J:= 1 to n do
 writeln( mat[i,j]);
 readln
 end.
-
-
-
-
-
